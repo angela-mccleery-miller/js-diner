@@ -187,4 +187,4 @@ alert("I added milk to your order, the calcium will do you good.");
     runningTotal += milk;
 
 alert("Your current total is: " + "$" + runningTotal);
-alert("Created by: Angela Miller, Pushed by: Ryan, The Lord of Darkness, GitHub:
+alert("Created by: Angela Miller, Pushed by: Ryan, The Lord of Darkness, GitHub:https://github.com/angela-mccleery-miller/js-diner.git
